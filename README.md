@@ -7,7 +7,7 @@ Meu nome é Lucas Ribeiro Pacheco, tenho 24 anos e moro em Camaquã-RS. Sou apai
 
 Recentemente, finalizei a minha graduação na área da tecnologia e estou em busca de uma oportunidade como programador. 
 
-Trabalho na área de tecnologia, mas com projetos focados em adequação LGPD e validação de sistemas computadorizados. 
+Trabalho na área de tecnologia com projetos de adequação LGPD e validação de sistemas computadorizados. 
 
 ## Ferramentas e Tecnologias
 
