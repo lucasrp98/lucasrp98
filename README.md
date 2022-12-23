@@ -5,7 +5,7 @@ Hello, Devs!
 
 Meu nome é Lucas Ribeiro Pacheco, tenho 24 anos e moro em Camaquã-RS. Sou apaixonado por programação, futebol e por minhas três gatas. 
 
-Recentemente, finalizei a minha gradução na área da tecnologia e estou em busca de uma oportunidade como programador. Atualmente, trabalho na área de tecnologia, mas com projetos focados em adequação LGPD e validação de sistemas computadorizados. 
+Recentemente, finalizei a minha graduação na área da tecnologia e estou em busca de uma oportunidade como programador. Atualmente, trabalho na área de tecnologia, mas com projetos focados em adequação LGPD e validação de sistemas computadorizados. 
 
 ## Ferramentas e Tecnologias
 
