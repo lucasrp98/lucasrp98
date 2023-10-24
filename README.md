@@ -3,11 +3,13 @@
 
 Hello, Devs!
 
-Meu nome é Lucas Ribeiro Pacheco, tenho 24 anos e moro em Camaquã-RS. Sou apaixonado por programação, futebol e por minhas três gatas. 
+Permitam-me apresentar-me: sou Lucas Ribeiro Pacheco, um entusiasta da programação, com 24 anos de idade, e minha base está fincada em Camaquã, no sul do estado do Rio Grande do Sul. 
 
-Sou graduado em Tecnologia em Análise e Desenvolvimento de Sistemas pelo IFSul. 
+Minha jornada acadêmica me levou à graduação em Tecnologia em Análise e Desenvolvimento de Sistemas, com uma sólida formação no IFSul.
 
-Atualmente, trabalho como desenvolvedor back-end na NS Tecnologia. 
+Neste momento, estou imerso no papel de desenvolvedor back-end, contribuindo ativamente para a NS Tecnologia.
+
+Estou ansioso para compartilhar minha paixão pela tecnologia e colaborar com todos vocês nesta incrível jornada de desenvolvimento. Vamos criar coisas incríveis juntos! 👨‍💻🚀
 
 ## Ferramentas e Tecnologias
 
